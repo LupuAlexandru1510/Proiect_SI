@@ -1,0 +1,63 @@
+[eu -> agent5]: tt
+[eu -> asistent]: UPPER:salutare
+[asistent]: Pydantic OK: SALUTARE
+[agentID_2]: salut
+[eu -> agentID_2]: salut
+[eu -> agentID_3]: dd
+[eu -> agentID_1]: dd
+[eu -> agentID_2]: ddd
+[agentID_2]: ddd
+[eu -> asistent]: UPPER:salutare
+[asistent]: Pydantic OK: SALUTARE
+[eu -> asistent]: buna
+[asistent]: Pydantic Error: Comanda invalida.
+[eu -> asistent]: HI
+[asistent]: Pydantic Error: Comanda invalida.
+[eu -> agentID_1]: UPPER:salut
+[eu -> asistent]: UPPER:salut
+[asistent]: Pydantic OK: SALUT
+[eu -> agentID_1]: rrr
+[eu -> agentID_3]: rr
+[eu -> agentID_1]: buna
+[eu -> agentID_1]: hello
+[broadcaster]: [ANUNȚ GLOBAL]: bunaaa
+[ANUNȚ GLOBAL]: usa
+[eu -> wiki]: masina
+[eu -> weather]: Italia
+[VREMEA]: Vremea in Italia: 9°C, Partly cloudy, Umiditate: 81%
+[ANUNȚ GLOBAL]: eee
+[ANUNȚ GLOBAL]: hhh
+[ANUNȚ GLOBAL]: gigi
+[agentID_3]: buna!
+[agentID_1]: ce faci?
+[eu -> agentID_3]: abc
+[eu -> agentID_1]: bbb
+[ANUNȚ GLOBAL]: LINISTE!
+[ANUNȚ GLOBAL]: Merge
+[agentID_1]: ddd
+[ANUNȚ GLOBAL]: dd
+[ANUNȚ GLOBAL]: sdfv
+[ANUNȚ GLOBAL]: ggg
+[agentID_3]: buna
+[ANUNȚ GLOBAL]: hh
+[agentID_3]: salut!
+[agentID_1]: aaa
+[eu -> agentID_1]: ok
+[eu -> agentID_3]: uuuu
+[eu -> agentID_1]: www
+[ANUNȚ GLOBAL]: Proba de test!!!
+[agentID_3]: salut!
+[agentID_1]: aaa
+[eu -> agentID_1]: qqq
+[eu -> agentID_3]: cff?
+[ANUNȚ GLOBAL]: Proba de test!
+[agentID_3]: salut!
+[agentID_1]: qqq
+[eu -> agentID_1]: eee
+[eu -> agentID_3]: hhh
+[ANUNȚ GLOBAL]: Proba de test!
+[agentID_3]: buna
+[agentID_1]: ggg
+[eu -> agentID_1]: rrr
+[eu -> agentID_3]: ooo
+[ANUNȚ GLOBAL]: Proba de test!

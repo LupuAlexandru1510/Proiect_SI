@@ -1,0 +1,150 @@
+[agentID_2]: dd
+[agentID_2]: rr
+[eu -> translator]: Hello
+[TRADUCERE]: Hello
+[eu -> translator]: Buna
+[TRADUCERE]: hello
+[eu -> translator]: Ce faci?
+[TRADUCERE]: what are you doing
+[eu -> translator]: sp
+[TRADUCERE]: sp
+[eu -> wiki]: masina
+[eu -> wiki]: java
+[ANUNȚ GLOBAL]: usa
+[eu -> monitor_resurse]: status'
+[HARDWARE]: CPU: 21.0% | RAM: 70.9% (Liber: 4.55 GB)
+[eu -> weather]: paris
+[VREMEA]: Vremea in paris: 10°C, Light rain, Umiditate: 100%
+[ANUNȚ GLOBAL]: eee
+[eu -> ceas_global]: berlin
+[TIMP]: Ora in Berlin: 20:48:21
+[eu -> ceas_global]: philipine
+[TIMP]: Nu am gasit fusul orar pentru 'philipine'. Incearca: London, Tokyo, New York.
+[eu -> ceas_global]: bucuresti
+[TIMP]: Ora in Bucuresti: 21:48:36
+[eu -> agentID_1]: hi
+[ANUNȚ GLOBAL]: hhh
+[ANUNȚ GLOBAL]: gigi
+[eu -> agentID_2]: buna!
+[eu -> agentID_1]: hi
+[agentID_1]: holla
+[agentID_2]: abc
+[ANUNȚ GLOBAL]: LINISTE!
+[eu -> asistent]: upper: salut!
+[asistent]: Pydantic OK: SALUT!
+[eu -> asistent]: count: mama
+[asistent]: Pydantic Error: Comanda invalida.
+[eu -> translator]: masina
+[TRADUCERE]: car
+[eu -> translator]: bec
+[TRADUCERE]: bulb
+[eu -> translator]: soare
+[TRADUCERE]: sun
+[eu -> translator]: mama are mere
+[TRADUCERE]: mother has apples
+[eu -> wiki]: Mihai Eminescu
+[WIKI]: Mihai Eminescu (născut Mihail Eminovici; n.
+[eu -> wiki]: Caragiale
+[WIKI]: Ion Luca Caragiale (n.
+[eu -> weather]: bucuresti
+[VREMEA]: Vremea in bucuresti: 0°C, Light rain, mist, Umiditate: 100%
+[eu -> weather]: sydney
+[VREMEA]: Vremea in sydney: 21°C, Partly cloudy, Umiditate: 88%
+[eu -> monitor_resurse]: status
+[HARDWARE]: CPU: 3.1% | RAM: 49.7% (Liber: 7.85 GB)
+[eu -> monitor_resurse]: status
+[HARDWARE]: CPU: 5.2% | RAM: 50.5% (Liber: 7.74 GB)
+[eu -> monitor_resurse]: status
+[HARDWARE]: CPU: 2.1% | RAM: 50.4% (Liber: 7.75 GB)
+[ANUNȚ GLOBAL]: Merge
+[ANUNȚ GLOBAL]: dd
+[ANUNȚ GLOBAL]: sdfv
+[ANUNȚ GLOBAL]: ggg
+[eu -> wiki]: caruta
+[WIKI]: Nu am gasit informatii pe Wikipedia despre acest subiect.
+[eu -> wiki]: cal
+[WIKI]: Calul (Equus ferus caballus) este un mamifer erbivor copitat de mărime considerabilă, fiind una dintre cele șapte specii moderne ale genului Equus.
+[eu -> weather]: bucuresti
+[VREMEA]: Nu am putut gasi vremea pentru bucuresti. Verifica numele orasului.
+[eu -> weather]: bucuresti
+[VREMEA]: Nu am putut gasi vremea pentru bucuresti. Verifica numele orasului.
+[eu -> weather]: sydney
+[VREMEA]: Vremea in sydney: 21°C, Partly cloudy, Umiditate: 88%
+[eu -> translator]: masina
+[TRADUCERE]: car
+[eu -> agentID_2]: buna
+[ANUNȚ GLOBAL]: hh
+[eu -> translator]: mama
+[TRADUCERE]: parent
+[eu -> translator]: tata
+[TRADUCERE]: father
+[eu -> agentID_2]: salut!
+[eu -> agentID_1]: buna!
+[agentID_1]: bbb
+[agentID_2]: uuuu
+[ANUNȚ GLOBAL]: Proba de test!!!
+[eu -> asistent]: upper: salut!
+[asistent]: Pydantic OK: SALUT!
+[eu -> asistent]: reverse: card
+[asistent]: Pydantic OK: drac
+[eu -> asistent]: lower: GIGI
+[asistent]: Pydantic Error: Comanda invalida.
+[eu -> agentID_2]: salut!
+[eu -> agentID_1]: buna!
+[agentID_1]: bbb
+[agentID_2]: cff?
+[ANUNȚ GLOBAL]: Proba de test!
+[eu -> asistent]: upper: hello
+[asistent]: Pydantic OK: HELLO
+[eu -> asistent]: reverse: masina
+[asistent]: Pydantic OK: anisam
+[eu -> asistent]: count: crocodil
+[asistent]: Pydantic Error: Comanda invalida.
+[eu -> agentID_2]: salut!
+[eu -> agentID_1]: aaa
+[agentID_1]: bunaaaa
+[agentID_2]: hhh
+[ANUNȚ GLOBAL]: Proba de test!
+[eu -> asistent]: upper: salut
+[asistent]: Pydantic OK: SALUT
+[eu -> asistent]: reverse: masina
+[asistent]: Pydantic OK: anisam
+[eu -> translator]: masina
+[TRADUCERE]: car
+[eu -> translator]: bec
+[TRADUCERE]: bulb
+[eu -> wiki]: Mihai Eminescu
+[WIKI]: Mihai Eminescu (născut Mihail Eminovici; n.
+[eu -> wiki]: laptop
+[WIKI]: Un notebook sau laptop este un calculator personal portabil, mobil, ușor și îndeajuns de mic pentru a putea fi ținut pe genunchi în timpul utilizării.
+[eu -> weather]: sydney
+[VREMEA]: Vremea in sydney: 21°C, Partly cloudy, Umiditate: 88%
+[eu -> weather]: bucuresti
+[VREMEA]: Nu am putut gasi vremea pentru bucuresti. Verifica numele orasului.
+[eu -> weather]: tokyo
+[VREMEA]: Vremea in tokyo: 12°C, Clear, Umiditate: 61%
+[eu -> agentID_2]: buna
+[eu -> agentID_1]: hi
+[agentID_1]: aaa
+[agentID_2]: ooo
+[eu -> asistent]: upper: salutare
+[asistent]: Pydantic OK: SALUTARE
+[eu -> asistent]: reverse: masina
+[asistent]: Pydantic OK: anisam
+[eu -> translator]: bec
+[TRADUCERE]: bulb
+[eu -> translator]: masina
+[TRADUCERE]: car
+[eu -> wiki]: Mihai Eminescu
+[WIKI]: Mihai Eminescu (născut Mihail Eminovici; n.
+[eu -> wiki]: laptop
+[WIKI]: Un notebook sau laptop este un calculator personal portabil, mobil, ușor și îndeajuns de mic pentru a putea fi ținut pe genunchi în timpul utilizării.
+[eu -> weather]: sydney
+[VREMEA]: Vremea in sydney: 21°C, Partly cloudy, Umiditate: 88%
+[eu -> weather]: tokyo
+[VREMEA]: Vremea in tokyo: 12°C, Clear, Umiditate: 61%
+[eu -> monitor_resurse]: status
+[HARDWARE]: CPU: 6.2% | RAM: 50.5% (Liber: 7.74 GB)
+[eu -> monitor_resurse]: status
+[HARDWARE]: CPU: 7.1% | RAM: 50.5% (Liber: 7.74 GB)
+[ANUNȚ GLOBAL]: Proba de test!

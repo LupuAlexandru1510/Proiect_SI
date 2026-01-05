@@ -1,0 +1,94 @@
+[agentID_2]: dd
+[agentID_2]: UPPER:salut
+[agentID_2]: rrr
+[eu -> asistent]: UPPER:salut!
+[asistent]: Pydantic OK: SALUT!
+[eu -> agentID_4]: ggg
+[agentID_2]: buna
+[agentID_2]: hello
+[broadcaster]: [ANUNȚ GLOBAL]: bunaaa
+[ANUNȚ GLOBAL]: usa
+[eu -> wiki]: java
+[eu -> wiki]: Mihai Eminescu
+[eu -> wiki]: Mihai Eminescu
+[eu -> wiki]: masina
+[eu -> wiki]: Mihai Eminescu
+[WIKI]: Mihai Eminescu (născut Mihail Eminovici; n.
+[eu -> wiki]: masina
+[WIKI]: Termen prea general. Incearca: Marină, Milă marină, Bova Marina
+[eu -> wiki]: Elodia
+[WIKI]: Cazul Elodia Ghinescu din august 2007 a fost început după dispariția avocatei române Elodia Ghinescu.
+[ANUNȚ GLOBAL]: eee
+[agentID_3]: hi
+[ANUNȚ GLOBAL]: hhh
+[eu -> asistent]: nn
+[asistent]: Pydantic Error: Comanda invalida.
+[eu -> asistent]: vremea bucuresti
+[asistent]: Pydantic Error: Comanda invalida.
+[eu -> translator]: masina
+[TRADUCERE]: car
+[eu -> wiki]: mihai eminescu
+[WIKI]: Mihai Eminescu (născut Mihail Eminovici; n.
+[eu -> weather]: galati
+[VREMEA]: Nu am putut gasi vremea pentru galati. Verifica numele orasului.
+[eu -> weather]: Paris
+[VREMEA]: Nu am putut gasi vremea pentru Paris. Verifica numele orasului.
+[eu -> weather]: paris
+[VREMEA]: Vremea in paris: 0°C, Light snow, Umiditate: 86%
+[eu -> weather]: bucuresti
+[VREMEA]: Vremea in bucuresti: 0°C, Light rain, mist, Umiditate: 100%
+[eu -> weather]: sydney
+[VREMEA]: Vremea in sydney: 21°C, Partly cloudy, Umiditate: 88%
+[eu -> asistent]: upper: salutare asistentule
+[asistent]: Pydantic OK: SALUTARE ASISTENTULE
+[eu -> asistent]: len: mama
+[asistent]: Pydantic Error: Comanda invalida.
+[eu -> asistent]: reverse: lale
+[asistent]: Pydantic OK: elal
+[eu -> monitor_resurse]: ram
+[HARDWARE]: CPU: 3.7% | RAM: 50.0% (Liber: 7.81 GB)
+[eu -> monitor_resurse]: status
+[HARDWARE]: CPU: 4.0% | RAM: 50.0% (Liber: 7.82 GB)
+[eu -> monitor_resurse]: ram
+[HARDWARE]: CPU: 7.5% | RAM: 49.8% (Liber: 7.84 GB)
+[eu -> monitor_resurse]: cpu
+[HARDWARE]: CPU: 2.6% | RAM: 49.8% (Liber: 7.84 GB)
+[eu -> monitor_resurse]: status
+[HARDWARE]: CPU: 3.3% | RAM: 49.8% (Liber: 7.84 GB)
+[eu -> monitor_resurse]: cpu
+[HARDWARE]: CPU: 1.1% | RAM: 49.6% (Liber: 7.88 GB)
+[eu -> monitor_resurse]: cpu
+[HARDWARE]: CPU: 10.5% | RAM: 50.3% (Liber: 7.77 GB)
+[ANUNȚ GLOBAL]: gigi
+[agentID_3]: hi
+[eu -> agentID_3]: holla
+[eu -> agentID_2]: ce faci?
+[agentID_2]: bbb
+[ANUNȚ GLOBAL]: LINISTE!
+[ANUNȚ GLOBAL]: Merge
+[eu -> agentID_2]: ddd
+[ANUNȚ GLOBAL]: dd
+[ANUNȚ GLOBAL]: sdfv
+[ANUNȚ GLOBAL]: ggg
+[ANUNȚ GLOBAL]: hh
+[agentID_3]: buna!
+[eu -> agentID_2]: aaa
+[eu -> agentID_3]: bbb
+[agentID_2]: ok
+[agentID_2]: www
+[ANUNȚ GLOBAL]: Proba de test!!!
+[agentID_3]: buna!
+[eu -> agentID_2]: aaa
+[eu -> agentID_3]: bbb
+[agentID_2]: qqq
+[ANUNȚ GLOBAL]: Proba de test!
+[agentID_3]: aaa
+[eu -> agentID_2]: qqq
+[eu -> agentID_3]: bunaaaa
+[agentID_2]: eee
+[ANUNȚ GLOBAL]: Proba de test!
+[agentID_3]: hi
+[eu -> agentID_3]: aaa
+[eu -> agentID_2]: ggg
+[agentID_2]: rrr
+[ANUNȚ GLOBAL]: Proba de test!
